@@ -3,7 +3,7 @@
 <body>
 <?php
 
-if($_POST["username"]=="cosmo" and $_POST["password"]=="lmao"){
+if($_POST["username"]=="YOUR_USERNAME" and $_POST["password"]=="YOUR_PASSWORD"){
 
 $servername = "localhost";
 $password = "YOUR_PASSWORD";
