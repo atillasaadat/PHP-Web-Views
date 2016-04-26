@@ -5,4 +5,6 @@ Gets and stores the following information from the user: Visit Number, IP Adress
 
 Easily implemented into any html page with `<?php include($_SERVER['DOCUMENT_ROOT'].'/visit.php') ?>`
 
-Views folder is just a simple database layout with login
+Views folder is just a simple database layout with login (as seen below, ip adresses smudged out)
+
+![alt tag](http://atillasaadat.me/views/views.png)
